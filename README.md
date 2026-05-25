@@ -1,5 +1,4 @@
-# calculadora-art730
-<!DOCTYPE html>
+# Calculadora. Art. 730
 <html lang="es">
 <head>
     <meta charset="UTF-8">
